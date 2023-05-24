@@ -1,0 +1,8 @@
+
+        .current_time, .alarm_time {
+            font-size: 100px;
+            text-align: center;
+            background-color: gray;
+            color: black;
+        }
+    
